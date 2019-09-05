@@ -12,6 +12,6 @@ One thing to make sure is that this will only skip about 100 seconds, if you wan
 Ctrl+J again. It will repeat. Make sure you are still in the tab or it will not work! Also make sure
 you are actually clicked into the video box.
 
-Any issues open a pull request!
+Any issues open a issue request!
 
 Hope you enjoy this program. :)

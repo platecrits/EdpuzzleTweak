@@ -3,7 +3,7 @@ This Edpuzzle Tweaks!
 The first program of its kind designed to speed up those videos on concepts you already know!
 
 
-Guide:
+
   Simply click on the .exe file and start the video 
 you want to speed up. Then use the keystroke Ctrl+J 
 and that's all!
